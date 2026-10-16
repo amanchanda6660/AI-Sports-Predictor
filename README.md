@@ -2,7 +2,7 @@
 
 AI Club project. We predict sports game outcomes with honest probabilities: when our model says a team has a 70% chance, that team should win about 7 out of every 10 games we say that about.
 
-**New here? Start with [ONBOARDING.md](ONBOARDING.md).** It takes about 20 minutes, and you don't need to install anything.
+**New here? Start with [ONBOARDING.md](ONBOARDING.md).** It takes about 5 minutes, and you don't need to install anything.
 
 ## What's where
 
